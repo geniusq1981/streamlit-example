@@ -3,3 +3,4 @@ pandas
 streamlit
 torch==1.13.0
 torchvision
+omegaconf==2.1.1
