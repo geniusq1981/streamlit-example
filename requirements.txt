@@ -3,6 +3,8 @@ pandas
 streamlit
 torch==1.13.0
 torchvision
+pytorch-lightning==1.4.2
+torchmetrics==0.6
 omegaconf==2.1.1
 einops==0.3.0
 transformers==4.19.2
